@@ -31,7 +31,20 @@ pubs:
     year: 2023
     topic:
 
+  - image: "img/projects/p2.jpg"
+    title: "2Multi-domain Information Fusion for Key-Points Guided GAN Inversion"
+    title_link: "https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12"
+    authors: "Ruize Xu, Xiaowen Qiu, Boan He, __Weifeng Ge ✉__, and Wenqiang Zhang✉"
+    links:
+      - name: PRCV 2023
+        url: https://www.prcv2023.cn/2023prcv
+      - name: Paper
+        url: https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12
 
+    journal: "Poster Presentation"
+    selected_order: 3
+    year: 2023
+    topic:
 
   - image: "img/projects/p3.jpg"
     title: "Characterizing the impacts of instances on robustness"
