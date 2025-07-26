@@ -1,0 +1,11 @@
+# Font style metadata
+name = "strawberry2"
+
+# Optional Google font URL
+#google_fonts = "family=Lato:wght@400;700&family=Merriweather&family=Roboto+Mono"
+
+# Font families
+heading_font =  "'Open Sans', Segoe,'Segoe UI', 'Lucida Sans Unicode','Lucida Grande', 'Avenir','Seravek','Ubuntu', 'DejaVu Sans','Trebuchet MS',Verdana,Arial,sans-serif"
+body_font = "'Open Sans', Segoe,'Segoe UI', 'Lucida Sans Unicode','Lucida Grande', 'Avenir','Seravek','Ubuntu', 'DejaVu Sans','Trebuchet MS',Verdana,Arial,sans-serif"
+nav_font = "'Open Sans', Segoe,'Segoe UI', 'Lucida Sans Unicode','Lucida Grande', 'Avenir','Seravek','Ubuntu', 'DejaVu Sans','Trebuchet MS',Verdana,Arial,sans-serif"
+mono_font = "'Open Sans', Segoe,'Segoe UI', 'Lucida Sans Unicode','Lucida Grande', 'Avenir','Seravek','Ubuntu', 'DejaVu Sans','Trebuchet MS',Verdana,Arial,sans-serif"

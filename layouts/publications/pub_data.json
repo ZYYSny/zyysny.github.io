@@ -1,0 +1,23 @@
+{{ $publications := .Site.Data.publications.pubs }}
+
+{{ $dataList := slice }}
+
+
+{{/*
+{{$publications}}
+{{$dd := index $publications 0}}
+{{$dd.authors}}
+*/}}
+
+{{/* markdownify yaml content */}}
+
+{{ range $idx, $item := $publications }}
+  {{ $modified_item := merge $item (dict "authors" ($item.authors | markdownify) )  }}
+  {{ $dataList = $dataList | append  $modified_item }}
+{{ end }}
+
+
+
+{{ $dataList = sort $dataList "selected_order" "asc" }}
+
+{{ $dataList | jsonify }}

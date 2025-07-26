@@ -1,0 +1,142 @@
+// Override this file to add your own SCSS styling.
+
+$primary-color: #0000ff;
+$btn-primary-color: #007bff;
+
+
+
+//@font-face {
+//  font-family: 'Segoe-UI-Semilight';
+//  src: url('fonts/segoeuil.ttf') format('ttf');
+//}
+
+body, h1, h2, h3, h4, h5, h6, .navbar-light {
+  //font-family: "Segoe UI Semilight", "Segoe UI Light", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+
+  //font-family: "Segoe-UI-Semilight" ,sans-serif
+  font-family: "Open Sans", Segoe, "Segoe UI", "Lucida Sans Unicode","Lucida Grande", "Avenir","Seravek","Ubuntu", "DejaVu Sans","Trebuchet MS",Verdana,Arial,sans-serif
+
+
+}
+
+
+.container {
+  max-width: 990px;
+}
+
+ a:hover {
+  text-decoration: underline;
+}
+
+
+.btn-outline-primary {
+  color: $btn-primary-color;
+  border-color: $btn-primary-color !important;
+}
+
+.btn-outline-primary.active, .btn-outline-primary:hover {
+  color: #fff;
+  background-color: $btn-primary-color !important;
+}
+
+
+.navbar {
+  font-size: 1rem;
+  box-shadow: none;
+  height: 50px;
+}
+
+
+.wg-about {
+  padding: 0;
+  #profile {
+    padding: 1rem 0 2rem 0;
+  }
+  .avatar {
+    width: 200px;
+    height: 200px;
+    margin: 0 0;
+  }
+  .person-links {
+    padding: 1rem 0;
+  }
+}
+
+
+.wg-recent-news {
+  background: #fff !important;
+  padding: 0;
+}
+
+
+.page-publications {
+  .filter-text {
+    padding: 1rem 0 1rem 0;
+  }
+  .publication-item {
+    padding: 0 0 0rem 0;
+    .item-index {
+      max-width: 2%;
+    }
+
+
+  }
+  .title a {
+    font-weight: bold;
+    color: #000;
+  }
+  .authors {
+    color: #777777;
+  }
+  .venue-links {
+    color: $primary-color;
+    a:first-child {
+      font-weight: bold;
+    }
+    a:after {
+      content: ' / ';
+      //padding: 0 0.5rem;
+      font-weight: normal !important;
+    }
+
+    a:last-child:after {
+      display: none;
+    }
+  }
+  .highlight {
+    color: #E40B07;
+    font-weight: bold;
+  }
+  .group-topic-name {
+    padding: 0 0 1rem 0;
+    font-weight: bold;
+    color: $primary-color;
+  }
+}
+
+
+.page-members {
+  .members-content {
+    h3 {
+      font-size: 1rem;
+      color: $primary-color;
+    }
+  }
+}
+
+.page-article {
+  .article-img {
+    padding: 1rem 0 4rem 0;
+  }
+}
+
+
+// 手机
+@media (max-width: 640px) {
+
+  .wg-about {
+    .avatar {
+      margin: 0 auto;
+    }
+  }
+}

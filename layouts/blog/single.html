@@ -1,0 +1,27 @@
+{{ define "main" }}
+
+<article class="universal-wrapper  page-article">
+
+  <div class="pt-3 pb-3">
+    <h1>{{ .Title }}</h1>
+  </div>
+
+  <div class=" article-content-wrap">
+
+    {{ with .Params.image }}
+    <div class="article-img">
+      <img class="img_responsive" src="{{ . | relURL }}" >
+    </div>
+    {{ end}}
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+
+
+  </div>
+</article>
+
+
+{{ end }}

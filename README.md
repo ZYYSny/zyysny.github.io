@@ -1,2 +1,1 @@
-# wfge-homepage
-homepage-test
+# weifengge-net

@@ -1,0 +1,82 @@
+{{ $ := .root }}
+{{ $page := .page }}
+
+{{ $author := "" }}
+{{ if .author }}
+  {{ $author = .author }}
+{{ else }}
+  {{ $author = $page.Params.author }}
+{{end}}
+
+{{ $person_page_path := (printf "/authors/%s" $author) }}
+{{ $person_page := site.GetPage $person_page_path }}
+{{ if not $person_page }}
+  {{ errorf "Could not find an author page at `%s`. Please check the value of `author` in your About widget and create an associated author page if one does not already exist. See https://wowchemy.com/docs/page-builder/#about " $person_page_path }}
+{{end}}
+{{ $person := $person_page.Params }}
+{{ $avatar := ($person_page.Resources.ByType "image").GetMatch "*avatar*" }}
+{{ $avatar_shape := site.Params.features.avatar.shape | default "circle" }}
+
+<div class="row">
+  <div class="col-12 col-md-3">
+    <div id="profile">
+
+      {{ $avatar_image := $avatar.Fill "200x200 Center" }}
+      <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}"
+      src="{{ $avatar_image.RelPermalink }}" alt="{{$person_page.Title}}">
+
+    </div>
+  </div>
+  <div class="col-12 col-md-4">
+    <div class="text info portrait-title">
+      <h1>{{ site.Title }}</h1>
+
+
+      {{ with $person.role }}<div><span>{{ . | markdownify | emojify }}</span></div>{{ end }}
+
+
+      {{ range $person.organizations }}
+      <div>
+        {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+        <span>{{ .name }}</span>
+        {{ if .url }}</a>{{ end }}
+      </div>
+      {{ end }}
+
+      <div>Email: {{ $person.email_text }}</div>
+
+      {{ with $person.person_links }}
+      {{ $link_length := len $person.person_links }}
+      <div class="person-links">
+        {{ range $idx, $item := . }}
+        <span><a class="" href="{{ $item.url }}">
+          {{ $item.text  | markdownify | emojify }}
+        </a></span> {{ if le $idx (sub $link_length 2) }}/{{ end }} {{/* 最后一项不用斜杠 */}}
+        {{end}}
+      </div>
+      {{ end }}
+
+    </div>
+
+  </div>
+  <div class="col-12 col-md-5">
+    <div class="text topic">
+      <p>
+      </p><div class="title">{{ $person.research_topics_title }}</div>
+      <ul>
+        {{ range $idx, $item := $person.research_topics_links }}
+        <li><a href="{{ $item.url | relLangURL }}" >{{ $item.text | markdownify }}</a></li>
+        {{ end }}
+
+      </ul>
+      <p>
+      </p></div>
+
+  </div>
+</div>
+
+<div class="row ">
+  <div class="col-12 article-style">
+    {{ $person_page.Content }}
+  </div>
+</div>

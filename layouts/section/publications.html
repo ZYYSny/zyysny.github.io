@@ -1,0 +1,258 @@
+{{- define "main" -}}
+
+    {{ $projects := .Site.Data.projects.projects }}
+
+
+    {{/* partial "page_header.html" . */}}
+
+  <div class="universal-wrapper page-publications">
+
+    <div class="pt-3 pb-3">
+      <h1>{{ .Title }}</h1>
+    </div>
+
+
+    <div class="vue-content">
+
+      {{/* safeHTML `
+      <div class="app">
+        {{ foo }}
+      </div>
+      ` */}}
+
+      <script src="https://cdn.jsdmirror.com/npm/lodash@4.17.21/lodash.min.js"></script>
+      {{/*<script src="https://unpkg.com/vue@3"></script>*/}}
+      <script src="https://unpkg.com/vue@3.5.18/dist/vue.global.prod.js"></script>
+      <div id="app_publications">
+        <div class="pubs-wrap">
+
+
+
+          <div class="filter-text" style=" ">
+
+            <div class="btn-links">
+              <a v-for="(item, index) in filterTabs"
+
+                 @click.stop.prevent="onClickFilter(item)"
+                 class="btn btn-outline-primary btn-page-header btn-sm"
+                 :class="{'active': reactiveData.activeFilter === item.code}"
+              >
+                ${ item.title }
+              </a>
+            </div>
+            <div class="tag">(* indicates equal contribution, and ✉ indicates corresponding author)</div>
+
+
+
+          </div>
+
+          <div class="publication-item row"  v-for="(item, index) in reactiveData.publicationsData" >
+            <div class="col-12"  :id="getTopicAnchor(item)" >
+              <div class="group-topic-name" >${showTopicName(item)}</div>
+            </div>
+
+
+            {{/*no images
+            <div class="col-12 col-md-3 img">
+               <img class="img_responsive" :src="item.image" >
+            </div>
+            */}}
+            <div class="col-1 item-index">${index + 1}.</div>
+            <div class="text col-11">
+              <div class="title">
+                <a  :href="item.title_link">
+                  ${item.title}
+                </a>
+              </div>
+              <div class="authors" v-html="item.authors"> </div>
+              <div class="venue-links">
+                <a   v-for="(link_item, index2) in item.links" :href="link_item.url">${link_item.name}</a>
+              </div>
+              <div>
+                <span class="highlight">${item.journal}</span>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+
+      <script>
+        //  → https://example.org/docs/
+        const baseUrl = '{{ .Site.BaseURL }}';
+        const filterTabs = [
+          {
+            title: '{{  i18n "pubs_filter_show_selected" | default "show selected"  | markdownify }}',
+            code: 'pubs_filter_show_selected',
+            orderBy: 'selected_order',
+          },
+
+          {
+            title: '{{ i18n "pubs_filter_show_by_date"   | default "show all by date"  | markdownify  }}',
+            code: 'pubs_filter_show_by_date',
+            orderBy: 'year',
+          },
+
+          {
+            title: '{{ i18n "pubs_filter_show_by_topic" | default "show all by topic"   | markdownify }}',
+            code: 'pubs_filter_show_by_topic',
+            orderBy: 'topic',
+          },
+
+        ];
+        const topicAnchorMap = {
+          'Low Level Imaging': 'low_level_imaging',
+          'Visual Recognition': 'visual_recognition',
+          'Few-shot Learning': 'few_shot_learning',
+        };
+      </script>
+
+      <script>
+
+
+        const { createApp, reactive, ref, onMounted, nextTick  } = window.Vue;
+
+        function loadPublications() {
+          return new Promise((resolve, reject) => {
+            // resolve();
+            // reject();
+            return fetch('{{ "publications/data/index.json" | relLangURL }}')
+              .then(response => response.json())
+              .then(data => {
+                data = data || []
+                // console.log(data); // 处理你的JSON数据
+                resolve(data)
+              });
+          });
+        }
+
+        // JavaScript 获取 URL 参数值的全面指南
+        // https://blog.csdn.net/qq_42671857/article/details/149314416
+        function getPageAnchor() {
+          // 获取当前URL的参数
+          const urlParams = new URLSearchParams(window.location.search);
+          // 获取单个参数值
+          const topic = urlParams.get('topic'); // 'low_level_imaging'
+          return topic;
+        }
+        let pageTopicAnchor = getPageAnchor();
+
+        function scrollToAnchor () {
+            // 如果需要，定位到anchor
+            // const anchor = document.querySelector(`#${pageTopicAnchor}`);
+            // const anchor = document.getElementById(getPageAnchor());
+            const anchor = document.getElementById(pageTopicAnchor);
+            if (anchor) {
+              anchor.scrollIntoView({behavior: 'smooth'});
+            }
+
+            // console.log('====onMounted====',`#${pageTopicAnchor}`, anchor, pageTopicAnchor, '++++++');
+        }
+
+
+        const App = {
+          delimiters: ['${', '}'],
+
+          setup: () => {
+            const reactiveData = reactive({
+              publicationsData: [],
+              activeFilter: 'pubs_filter_show_selected',
+              // topicGroup: ''
+            });
+
+            let allDataList = [];
+
+
+            onMounted(() => {
+
+
+            });
+
+
+            loadPublications().then(data => {
+              data.map(item => {
+                item.image = `${baseUrl}${item.image}`
+              });
+              allDataList = [...data];
+              reactiveData.publicationsData = data;
+
+              // 检查URL是否带有topic 参数
+              if (pageTopicAnchor && Object.values(topicAnchorMap).includes(pageTopicAnchor)) {
+                reactiveData.activeFilter = 'pubs_filter_show_by_topic';
+                nextTick(scrollToAnchor);
+              }
+
+            });
+
+            // 展示分组topic
+            let topicGroup = '';
+            const showTopicName = (pubItem) => {
+              if (reactiveData.activeFilter !== 'pubs_filter_show_by_topic') {
+                return '';
+              }
+
+              if (topicGroup !== pubItem.topic) {
+                topicGroup = pubItem.topic;
+                return pubItem.topic;
+              }
+
+            };
+            const getTopicAnchor = (pubItem) => {
+              if (reactiveData.activeFilter !== 'pubs_filter_show_by_topic') {
+                return '';
+              }
+
+              const topicAnchorMap = {
+                'Low Level Imaging': 'low_level_imaging',
+                'Visual Recognition': 'visual_recognition',
+                'Few-shot Learning': 'few_shot_learning',
+              };
+
+              return topicAnchorMap[pubItem.topic] || '';
+
+            };
+
+            const onClickFilter = (item) => {
+              // pubs_filter_show_by_date
+              // pubs_filter_show_by_topic
+              // pubs_filter_show_selected
+              // console.log(item.code);
+
+              reactiveData.activeFilter = item.code;
+
+              const orderMap = {
+                pubs_filter_show_selected: ['selected_order', 'asc'],
+                pubs_filter_show_by_date: ['year', 'desc'],
+                pubs_filter_show_by_topic: ['topic', 'asc'],
+              };
+              // const sortedList = _.orderBy(allDataList, orderMap[item.code][0], orderMap[item.code][1]);
+              reactiveData.publicationsData =  _.orderBy(allDataList, orderMap[item.code][0], orderMap[item.code][1]);
+
+              // console.log(item.code, sortedList)
+
+            };
+
+            return {
+              onClickFilter,
+              reactiveData,
+              filterTabs,
+              getTopicAnchor,
+              showTopicName,
+            };
+          },
+
+
+
+
+        };
+        const app = createApp( App);
+        app.mount("#app_publications");
+      </script>
+
+    </div>
+
+
+  </div>
+
+{{- end -}}
