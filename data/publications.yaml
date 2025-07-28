@@ -5,7 +5,7 @@ pubs:
     title_link: "https://arxiv.org/abs/2507.10225"
     authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: International Conference on Computer Vision (ICCV) 2025
+      - name: International Conference on Computer Vision (ICCV 2025) 
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2507.10225
@@ -22,7 +22,7 @@ pubs:
     title_link: "https://openreview.net/forum?id=TMt0dE668k&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)"
     authors: "Zishu Qin*, Junhao Xu*, and __Weifeng Ge✉__"
     links:
-      - name: International Conference on Computer Vision (ICCV) 2025
+      - name: International Conference on Computer Vision (ICCV 2025) 
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://openreview.net/pdf?id=TMt0dE668k
@@ -39,7 +39,7 @@ pubs:
     title_link: ""
     authors: "Tianhao Li, Yang Li, Mengtian Li, Yisheng Deng, and __Weifeng Ge✉__"
     links:
-      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
+      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) 
         url: https://www.iros25.org/
       - name: Paper
         url: 
@@ -52,11 +52,28 @@ pubs:
 
 
   - image: "img/projects/p1.jpg"
+    title: "CocoER: Aligning Multi-Level Feature by Competition and Coordination for Emotion Recognition"
+    title_link: "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_CocoER_Aligning_Multi-Level_Feature_by__Competition_and_Coordination_for_CVPR_2025_paper.pdf"
+    authors: "Xuli Shen, Hua Cai, Weilin Shen, Qing Xu, Dingding Yu, __Weifeng Ge✉__, and Xiangyang Xue✉"
+    links:
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025) 
+        url: https://cvpr.thecvf.com/
+      - name: Paper
+        url: https://cvpr.thecvf.com/virtual/2025/poster/33711
+
+    journal: "Poster Presentation"
+    selected_order: 503
+    year: 2025
+    topic: computer vision and machine learning
+
+
+
+  - image: "img/projects/p1.jpg"
     title: "Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments"
     title_link: ""
     authors: "Haibo Wang, Chenghang Lai, and __Weifeng Ge✉__"
     links:
-      - name: IEEE Transactions on Multimedia
+      - name: IEEE Transactions on Multimedia (TMM 2025)
         url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
       - name: Paper
         url: 
@@ -69,19 +86,19 @@ pubs:
 
 
   - image: "img/projects/p1.jpg"
-    title: "CocoER: Aligning Multi-Level Feature by Competition and Coordination for Emotion Recognition"
-    title_link: "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_CocoER_Aligning_Multi-Level_Feature_by__Competition_and_Coordination_for_CVPR_2025_paper.pdf"
-    authors: "Xuli Shen, Hua Cai, Weilin Shen, Qing Xu, Dingding Yu, __Weifeng Ge✉__, and Xiangyang Xue"
+    title: "Cross-modal Complementary Learning and Template-based Reasoning Chains for Future Event Prediction in Videos"
+    title_link: ""
+    authors: "Chenghang Lai, __Weifeng Ge✉__, and Xiangyang Xue"
     links:
-      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
-        url: https://cvpr.thecvf.com/
+      - name: IEEE Transactions on Multimedia (TMM 2025)
+        url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
       - name: Paper
-        url: https://cvpr.thecvf.com/virtual/2025/poster/33711
+        url: 
 
-    journal: "Poster Presentation"
+    journal: "Regular Paper"
     selected_order: 505
     year: 2025
-    topic: computer vision and machine learning
+    topic: multimodal learning and reasoning
 
 
 
@@ -90,18 +107,32 @@ pubs:
     title_link: "https://arxiv.org/pdf/2502.01183"
     authors: "Qianyu Guo, Jingrong Wu, Tianxing Wu, Haofen Wang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: IEEE Transactions on Image Processing
+      - name: IEEE Transactions on Image Processing (TIP 2025)
         url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
       - name: Paper
         url: https://ieeexplore.ieee.org/document/11018198
 
     journal: "Regular Paper"
-    selected_order: 503
+    selected_order: 506
     year: 2025
     topic: computer vision and machine learning
 
 
 
+  - image: "img/projects/p1.jpg"
+    title: "DeTrack: In-model Latent Denoising Learning for Visual Object Tracking"
+    title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
+    authors: "Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, __Weifeng Ge✉__, and Wenqiang Zhang✉"
+    links:
+      - name: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
+        url: https://neurips.cc/Conferences/2024
+      - name: Paper
+        url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf
+
+    journal: "Poster Presentation"
+    selected_order: 507
+    year: 2024
+    topic: computer vision and machine learning
 
 
 
