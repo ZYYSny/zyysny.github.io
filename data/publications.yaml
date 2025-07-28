@@ -269,7 +269,7 @@ pubs:
 
 
   - image: "img/projects/p3.jpg"
-    title: "Characterizing the impacts of instances on robustness"
+    title: "Characterizing the Impacts of Instances on Robustness"
     title_link: "https://aclanthology.org/2023.findings-acl.146.pdf"
     authors: "Rui Zheng, Zhiheng Xi, Qin Liu, Wenbin Lai, Tao Gui, Qi Zhang, XuanJing Huang, Jin Ma, Ying Shan, __Weifeng Ge ✉__"
     links:
