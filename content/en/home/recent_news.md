@@ -20,10 +20,11 @@ design:
 #  view: compact
   columns: '1'
 ---
-
+- 1 papers from <span style="color: #0cc977; font-weight: bold;">NAIG</span> are accepted by AAAI 2023, CVPR 2023, ICCV 2023, ACL 2023, NeurIPS 2023 and CVPR 2024.
 - Several papers from <span style="color: #0cc977; font-weight: bold;">NAIG</span> are accepted by AAAI 2023, CVPR 2023, ICCV 2023, ACL 2023, NeurIPS 2023 and CVPR 2024.
-- I was selected as an area chair of CCF Yong Computer Scientists & Engineers Forum (YOCSEF, Shanghai) in 2022.
-- Several papers from <span style="color: #0cc977; font-weight: bold;">NAIG</span> are accepted by ICCV 2021 and CVPR 2022.
-- I have founded the <span style="color: #0cc977; font-weight: bold;">Nebula AI Group</span> in the school of computer science at Fudan University in 2020. 
-- Our paper [Image Super-Resolution via Deterministic-Stochastic Synthesis and Local Statistical Rectification](https://arxiv.org/abs/1809.06557) was presented at SIGGRAPH Asia 2018.
-- Our paper [Borrowing Treasures From the Wealthy: Deep Transfer Learning Through Selective Joint Fine-Tuning](http://openaccess.thecvf.com/content_cvpr_2017/html/Ge_Borrowing_Treasures_From_CVPR_2017_paper.html) was selected for a spotlight presentation at CVPR 2017.
+
+- 2022-03: Two papers are accepted by CVPR.
+- 2022-02: I was selected as an area chair of CCF Yong Computer Scientists & Engineers Forum (YOCSEF, Shanghai).
+- 2021-10: I am honored to be sponsored by 
+- 2021-07: Two papers are accepted by ICCV.
+- 2020-08: I have founded the <span style="color: #0cc977; font-weight: bold;">Nebula AI Group</span> in the school of computer science at Fudan University. 
