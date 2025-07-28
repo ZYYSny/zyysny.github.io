@@ -27,7 +27,7 @@ design:
 - 2025-02: One paper is accepted by TMM, and one paper is accepted by TIP.
 - 2024-10: I am invited as a keynote speaker at CCF RL China 2024.
 - 2024-09: One paper is accepted by NeurIPS 2024.
-- 2024-08: Three papers are accepted by ACMMM 2024, and one paper is accepted by TCSVT..
+- 2024-08: Three papers are accepted by ACMMM 2024, and one paper is accepted by TCSVT.
 - 2024-07: One paper is accepted by ECCV 2024.
 - 2024-04: I am elected as the secretary general of SCS multimedia committee（上海市计算机学会多媒体专委会秘书长）.
 - 2024-03: One paper is accepted by CVPR 2023.
