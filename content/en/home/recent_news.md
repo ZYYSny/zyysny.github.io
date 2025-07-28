@@ -22,7 +22,7 @@ design:
 ---
 - 2025-07: I am invited as a keynote speaker at the World Artificial Intelligence Conference (WAIC 2025).
 - 2025-07: I am promoted to a tenured associate professor.
-- 2025-07: Two papers are accepted by ICCV 2025, one paper is accepted by IROS 2025, and one paper is accepted by EMNLP 2025.
+- 2025-07: Two papers are accepted by ICCV 2025, and one paper is accepted by IROS 2025.
 - 2025-03: One paper is accepted by TMM, and one paper is accepted by CVPR 2025.
 - 2025-02: One paper is accepted by TMM, and one paper is accepted by TIP.
 - 2024-10: I am invited as a keynote speaker at CCF RL China 2024.
