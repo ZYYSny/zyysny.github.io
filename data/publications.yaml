@@ -281,7 +281,7 @@ pubs:
     journal: "Findings Presentation"
     selected_order: 516
     year: 2023
-    topic:
+    topic: multimodal learning and reasoning
 
 
   - image: "img/projects/p4.jpg"
@@ -289,7 +289,7 @@ pubs:
     title_link: "https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922"
     authors: "Qianyu Guo, Haotong Gong, Xujun Wei, Yanwei Fu, Yizhou Yu, Wenqiang Zhang, __Weifeng Ge ✉__"
     links:
-      - name: The 37th AAAI Conference on Aritificial Intelligence (AAAI 2023)
+      - name: The 37th AAAI Conference on Artificial Intelligence (AAAI 2023)
         url: https://aaai-23.aaai.org//
       - name: Paper
         url: https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922
@@ -297,7 +297,8 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 517
     year: 2023
-    topic: Few-shot Learning
+    topic: computer vision and machine learning
+
 
   - image: "img/projects/p5.jpg"
     title: "Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge"
@@ -312,14 +313,15 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 518
     year: 2023
-    topic:
+    topic: multimodal learning and reasoning
+
 
   - image: "img/projects/p6.jpg"
     title: "Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection"
     title_link: "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Hierarchical_Visual_Categories_Modeling_A_Joint_Representation_Learning_and_Density_ICCV_2023_paper.pdf"
     authors: "Jinglun Li, Xinyu Zhou, Pinxue Guo, Yixuan Sun, Yiwen Huang, __Weifeng Ge ✉__, Wenqiang Zhang✉"
     links:
-      - name: ICCV 2023
+      - name: International Conference on Computer Vision (ICCV 2023) 
         url: https://iccv2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Hierarchical_Visual_Categories_Modeling_A_Joint_Representation_Learning_and_Density_ICCV_2023_paper.pdf
@@ -327,7 +329,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 519
     year: 2023
-    topic:
+    topic: computer vision and machine learning
 
   - image: "img/projects/p7.jpg"
     title: "Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement"
@@ -342,7 +344,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 520
     year: 2023
-    topic:
+    topic: computer vision and machine learning
 
   - image: "img/projects/p8.jpg"
     title: "MISC210K: A Large-Scale Dataset for Multi-Instance Semantic Correspondence"
@@ -357,8 +359,8 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 521
     year: 2023
-    topic: Visual Recognition
-
+    topic: computer vision and machine learning
+    
 
   - image: "img/projects/p9.jpg"
     title: "Correspondence Transformers with Asymmetric Feature Learning and Matching Flow Super-Resolution"
@@ -373,7 +375,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 522
     year: 2023
-    topic:
+    topic: computer vision and machine learning
 
 
   - image: "img/projects/p9.jpg"
@@ -389,7 +391,7 @@ pubs:
     journal: "Survey Paper"
     selected_order: 523
     year: 2022
-    topic:
+    topic: computer vision and machine learning
 
 
   - image: "img/projects/p9.jpg"
@@ -405,7 +407,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 524
     year: 2022
-    topic:
+    topic: computer vision and machine learning
 
 
 
@@ -424,7 +426,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 525
     year: 2022
-    topic: Few-shot Learning
+    topic: computer vision and machine learning
 
 
 
@@ -443,7 +445,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 526
     year: 2022
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
 
@@ -452,7 +454,7 @@ pubs:
     title_link: "https://dl.acm.org/doi/abs/10.1145/3503161.3547865"
     authors: "Yan Wang, Yixuan Sun, Wei Song, Shuyong Gao, Yiwen Huang, Zhaoyu Chen, __Weifeng Ge ✉__, and Wenqiang Zhang ✉"
     links:
-      - name: ACM MM 2022
+      - name: Proceedings of the 30th ACM International Conference on Multimedia (ACMMM 2022)
         url: https://2022.acmmm.org/
       - name: Paper
         url: https://dl.acm.org/doi/abs/10.1145/3503161.3547865
@@ -460,7 +462,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 527
     year: 2022
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
 
@@ -469,7 +471,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_GraphFPN_Graph_Feature_Pyramid_Network_for_Object_Detection_ICCV_2021_paper.html"
     authors: "Gangming Zhao, __Weifeng Ge ✉__, and Yizhou Yu ✉"
     links:
-      - name: ICCV 2021
+      - name: International Conference on Computer Vision (ICCV 2021) 
         url: http://iccv2021.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_GraphFPN_Graph_Feature_Pyramid_Network_for_Object_Detection_ICCV_2021_paper.pdf
@@ -479,7 +481,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 528
     year: 2021
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
 
@@ -488,7 +490,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Multi-Scale_Matching_Networks_for_Semantic_Correspondence_ICCV_2021_paper.html"
     authors: "Dongyang Zhao, Ziyang Song, Zhenghao Ji, Gangming Zhao, __Weifeng Ge ✉__, and Yizhou Yu"
     links:
-      - name: ICCV 2021
+      - name: International Conference on Computer Vision (ICCV 2021) 
         url: http://iccv2021.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Multi-Scale_Matching_Networks_for_Semantic_Correspondence_ICCV_2021_paper.pdf
@@ -498,7 +500,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 529
     year: 2021
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
 
@@ -507,13 +509,13 @@ pubs:
     title_link: "https://arxiv.org/pdf/1903.02827.pdf"
     authors: "__Weifeng Ge*__, Xiangru Lin*, and Yizhou Yu (* indicates equal contribution)"
     links:
-      - name: CVPR 2019
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2019)
         url: http://cvpr2019.thecvf.com/
 
     journal: "Poster Presentation"
     selected_order: 530
     year: 2019
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
 
@@ -522,7 +524,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf"
     authors: "__Weifeng Ge__, Sheng Guo, Weilin Huang✉, and Matthew R. Scott"
     links:
-      - name: ICCV 2019
+      - name: International Conference on Computer Vision (ICCV 2019) 
         url: https://iccv2019.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf
@@ -530,9 +532,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 531
     year: 2019
-    topic: Visual Recognition
-
-
+    topic: computer vision and machine learning
 
 
 
@@ -543,7 +543,7 @@ pubs:
     links:
       - name: SIGGRAPH ASIA 2018
         url: https://sa2018.siggraph.org/en/
-      - name: ACM Trans. on Graphics
+      - name: ACM Transactions on Graphics
         url: https://tog.acm.org/
       - name: Paper
         url: https://arxiv.org/pdf/1809.06557.pdf
@@ -553,9 +553,7 @@ pubs:
     journal: Oral Presentation
     selected_order: 532
     year: 2018
-    topic: Low Level Imaging
-
-
+    topic: computer vision and machine learning
 
 
 
@@ -564,7 +562,7 @@ pubs:
     title_link: "http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf"
     authors: "__Weifeng Ge__, Weinlin Huang, Dengke Dong, and Matthew R. Scott"
     links:
-      - name: ECCV 2018
+      - name: The 15th European Conference on Computer Vision (ECCV 2018)
         url: https://eccv2018.org/
       - name: Paper
         url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf
@@ -572,7 +570,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 533
     year: 2018
-    topic: Visual Recognition
+    topic: computer vision and machine learning
 
 
   - image: "img/projects/p19.jpg"
@@ -580,7 +578,7 @@ pubs:
     title_link: "http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf"
     authors: "__Weifeng Ge__, Sibei Yang, and Yizhou Yu"
     links:
-      - name: CVPR 2018
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2018)
         url: http://cvpr2018.thecvf.com/
       - name: Paper
         url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf
@@ -588,14 +586,16 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 534
     year: 2018
-    topic: Visual Recognition
+    topic: computer vision and machine learning
+
+
 
   - image: "img/projects/p20.jpg"
     title: "Borrowing Treasures from the Wealthy: Deep Transfer Learning through Selective Joint Fine-Tuning"
     title_link: "http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_Borrowing_Treasures_From_CVPR_2017_paper.pdf"
     authors: "__Weifeng Ge__, and Yizhou Yu"
     links:
-      - name: CVPR 2017
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2017)
         url: http://cvpr2017.thecvf.com/
       - name: Paper
         url: http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_Borrowing_Treasures_From_CVPR_2017_paper.pdf
@@ -605,8 +605,7 @@ pubs:
     journal: "Spotlight Presentation"
     selected_order: 535
     year: 2017
-    topic: Visual Recognition
-
+    topic: computer vision and machine learning
 
 
 
@@ -615,13 +614,13 @@ pubs:
     title_link: "https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0031320316000522"
     authors: "__Weifeng Ge__, Zhenhua Guo, Yuhan Dong, and Youbin Chen"
     links:
-      - name: PR 2016
+      - name: Pattern Recognition (PR 2016)
         url: https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0031320316000522
 
     journal:
     selected_order: 536
     year: 2016
-    topic: Video Surveillance
+    topic: computer vision and machine learning
 
 
   - image: "img/projects/bs_icpr2014.jpg"
@@ -629,7 +628,7 @@ pubs:
     title_link: "https://ieeexplore.ieee.org/document/6977118"
     authors: "__Weifeng Ge__, Yuhan Dong, Zhenhua Guo, and Youbin Chen"
     links:
-      - name: ICPR 2014
+      - name: The 22nd International Conference on Pattern Recognition (ICPR 2014)
         url: https://iapr.org/archives/icpr2014/
       - name: Paper
         url: https://ieeexplore.ieee.org/document/6977118
@@ -637,7 +636,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 537
     year: 2014
-    topic: Video Surveillance
+    topic: computer vision and machine learning
 
 
 
