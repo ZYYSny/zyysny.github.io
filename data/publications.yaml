@@ -273,12 +273,12 @@ pubs:
     title_link: "https://aclanthology.org/2023.findings-acl.146.pdf"
     authors: "Rui Zheng, Zhiheng Xi, Qin Liu, Wenbin Lai, Tao Gui, Qi Zhang, XuanJing Huang, Jin Ma, Ying Shan, __Weifeng Ge ✉__"
     links:
-      - name: ACL 2023
+      - name: The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) 
         url: https://2023.aclweb.org/
       - name: Paper
         url: https://aclanthology.org/2023.findings-acl.146.pdf
 
-    journal: "Poster Presentation"
+    journal: "Findings Presentation"
     selected_order: 516
     year: 2023
     topic:
@@ -289,7 +289,7 @@ pubs:
     title_link: "https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922"
     authors: "Qianyu Guo, Haotong Gong, Xujun Wei, Yanwei Fu, Yizhou Yu, Wenqiang Zhang, __Weifeng Ge ✉__"
     links:
-      - name: AAAI 2023
+      - name: The 37th AAAI Conference on Aritificial Intelligence (AAAI 2023)
         url: https://aaai-23.aaai.org//
       - name: Paper
         url: https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922
@@ -304,7 +304,7 @@ pubs:
     title_link: "https://arxiv.org/pdf/2306.04657.pdf"
     authors: "Hua Cai* ✉, Xuli Shen*, Qing Xu, Weilin Shen, Xiaomei Wang, Wenqiang Zhang, __Weifeng Ge__ , XiaoQing Zheng, Xiangyang Xue,"
     links:
-      - name: ACL 2023
+      - name: The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
         url: https://2023.aclweb.org/
       - name: Paper
         url: https://arxiv.org/pdf/2306.04657.pdf
@@ -334,7 +334,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Weakly_Supervised_Learning_of_Semantic_Correspondence_through_Cascaded_Online_Correspondence_ICCV_2023_paper.pdf"
     authors: "Yiwen Huang, Yixuan Sun, Chenghang Lai, Qing Xu, Xiaomei Wang, Xuli Shen, __Weifeng Ge ✉__"
     links:
-      - name: ICCV 2023
+      - name: International Conference on Computer Vision (ICCV 2023)
         url: https://iccv2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Weakly_Supervised_Learning_of_Semantic_Correspondence_through_Cascaded_Online_Correspondence_ICCV_2023_paper.pdf
@@ -349,7 +349,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MISC210K_A_Large-Scale_Dataset_for_Multi-Instance_Semantic_Correspondence_CVPR_2023_paper.pdf"
     authors: "Yixuan Sun*, Yiwen Huang*, Haijing Guo, Yuzhou Zhao, Runmin Wu, Yizhou Yu, __Weifeng Ge ✉__ Wenqiang Zhang ✉"
     links:
-      - name: CVPR 2023
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
         url: https://cvpr2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MISC210K_A_Large-Scale_Dataset_for_Multi-Instance_Semantic_Correspondence_CVPR_2023_paper.pdf
@@ -365,7 +365,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Correspondence_Transformers_With_Asymmetric_Feature_Learning_and_Matching_Flow_Super-Resolution_CVPR_2023_paper.pdf"
     authors: "Yixuan Sun, Dongyang Zhao, Zhangyue Yin, Yiwen Huang, Tao Gui, Wenqiang Zhang, __Weifeng Ge ✉__"
     links:
-      - name: CVPR 2023
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2023)
         url: https://cvpr2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Correspondence_Transformers_With_Asymmetric_Feature_Learning_and_Matching_Flow_Super-Resolution_CVPR_2023_paper.pdf
@@ -414,7 +414,7 @@ pubs:
     title_link: "https://arxiv.org/pdf/2203.09064.pdf"
     authors: "Yangji He, Weihan Liang, Dongyang Zhao, Hong-Yu Zhou, __Weifeng Ge ✉__, Yizhou Yu, and Wenqiang Zhang"
     links:
-      - name: CVPR 2022
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
         url: http://cvpr2022.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2203.09064.pdf
@@ -433,7 +433,7 @@ pubs:
     title_link: "https://arxiv.org/abs/2203.09463"
     authors: "Yan Wang, Yixuan Sun, Yiwen Huang, Zhongying Liu, Shuyong Gao, Wei Zhang, __Weifeng Ge ✉__, and Wenqiang Zhang ✉"
     links:
-      - name: CVPR 2022
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
         url: http://cvpr2022.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2203.09064.pdf
