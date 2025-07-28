@@ -5,21 +5,14 @@ title: Members
 
 ### MPhil & MEng Students
 
-- Yiwen Huang (2021~, MPhil)
-- Chao Peng (2022~, MPhil)
 - Zishu Qin (2023~, MPhil)
-- Hibo Wang (2022~, MEng)
-- Yuhan He (2022~, MEng)
-- Zelong Wang (2022~, MEng)
-- Xinhao Liu (2022~, MEng)
-- Hongbo Shi (2022~, MEng)
-- Zhihao Shao (2022~, MEng)
 - Jin Cui (2023~, MEng)
 - Tianhao Li (2023~, MEng)
 - Yue Pan (2023~, MEng)
 - Yijia Zhong (2023~, MEng)
 - Yuanfan Ma (2023~, MEng)
-
+- Hongbo Shi (2022~, MEng)
+- Zhihao Shao (2022~, MEng)
 
 ### Undergraduate Students
 
@@ -31,15 +24,23 @@ title: Members
 
 
 ### Alumni
-
-- Dongyang Zhao (2020~2023, MPhil, Tecent)
-- Yangji He (2020~2023, MPhil, ByteDance)
-- Boan He (2020~2023, MEng, DJI)
-- Haotong Gong (2021~2024, MEng, Tecent)
+- Chao Peng (2022~2025, MPhil, Pingduoduo)
+- Haibo Wang (2022~2025, MEng, PhD@UC Davis, Outstanding Graduate of Shanghai 上海市优秀毕业生)
+- Yuhan He (2022~2025, MEng, China Telecom)
+- Zelong Wang (2022~2025, MEng, Tencent)
+- Xinhao Liu (2022~2025, MEng, Huawei)
+- Zihao Wen (2022~2025, MEng, Sensetime)
+- Nanxi Jiang (2022~2025, MEng, NetEase)
+- Yiwen Huang (2021~2024, MPhil, ChongqingGov, Outstanding Graduate of Shanghai 上海市优秀毕业生)
+- Haotong Gong (2021~2024, MEng, Tencent)
 - Weihan Liang (2021~2024, MEng, WeChat)
 - Ruize Xu (2021~2024, MEng, Huawei)
 - Xianbing Liang (2021~2024, MEng, NetEase)
 - Yubo Wang (2021~2024, MEng, Sensetime)
+- Hanghai Hu (2021~2024, MEng, Tencent)
+- Dongyang Zhao (2020~2023, MPhil, Tecent, Outstanding Master Thesis Award of the Shanghai Society of Information，上海市信息学会优秀硕士论文奖)
+- Yangji He (2020~2023, MPhil, ByteDance)
+- Boan He (2020~2023, MEng, DJI)
 - Shilong Dong (2022~2024, UnGrad, NYU Courant)
 - Xiaowen Qiu (2022~2024, UnGrad, UMass Amherst)
 - Zhenghao Ji (2020~2021, UnGrad, Sensetime)
