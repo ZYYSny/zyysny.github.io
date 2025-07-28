@@ -153,17 +153,55 @@ pubs:
 
 
 
+  - image: "img/projects/p1.jpg"
+    title: "TagOOD: A Novel Approach to Out-of-Distribution Detection via Vision-Language Representations and Class Center Learning"
+    title_link: "https://arxiv.org/pdf/2408.15566"
+    authors: "Jinglun Li, Xinyu Zhou, Kaixun Jiang, Lingyi Hong, Pinxue Guo, Zhaoyu Chen, __Weifeng Ge✉__, and Wenqiang Zhang✉"
+    links:
+      - name: Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM 2024)
+        url: https://dl.acm.org/doi/proceedings/10.1145/3664647
+      - name: Paper
+        url: https://dl.acm.org/doi/10.1145/3664647.3680579
+
+    journal: "Poster Presentation"
+    selected_order: 509
+    year: 2025
+    topic: computer vision and machine learning
+
+
+
+  - image: "img/projects/p1.jpg"
+    title: "Visual-Language Collaborative Representation Network for Broad-Domain Few-Shot Image Classification"
+    title_link: "https://openreview.net/pdf?id=yPu0U9p2z3"
+    authors: "Qianyu Guo, Jieji Ren, Haofen Wang, Tianxing Wu, __Weifeng Ge✉__, and Wenqiang Zhang✉"
+    links:
+      - name: Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM 2024)
+        url: https://dl.acm.org/doi/proceedings/10.1145/3664647
+      - name: Paper
+        url: https://dl.acm.org/doi/10.1145/3664647.3680668
+
+    journal: "Poster Presentation"
+    selected_order: 510
+    year: 2025
+    topic: computer vision and machine learning
 
 
 
 
+  - image: "img/projects/p1.jpg"
+    title: "Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering"
+    title_link: "https://arxiv.org/pdf/2401.10711"
+    authors: "Haibo Wang, Chenghang Lai, Yixuan Sun, and __Weifeng Ge✉__"
+    links:
+      - name: Proceedings of the 32nd ACM International Conference on Multimedia (ACMMM 2024)
+        url: https://dl.acm.org/doi/proceedings/10.1145/3664647
+      - name: Paper
+        url: https://dl.acm.org/doi/10.1145/3664647.3680826
 
-
-
-
-
-
-
+    journal: "Poster Presentation"
+    selected_order: 511
+    year: 2025
+    topic: computer vision and machine learning
 
 
 
