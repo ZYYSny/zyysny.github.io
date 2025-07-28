@@ -3,25 +3,74 @@ pubs:
   - image: "img/projects/p1.jpg"
     title: "Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection"
     title_link: "https://arxiv.org/abs/2507.10225"
-    authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge*__, and Wenqiang Zhang*"
+    authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
       - name: International Conference on Computer Vision (ICCV) 2025
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2507.10225
 
-    journal: "Poster Presentation"
-    selected_order: 1
+    journal: "Highlight Presentation"
+    selected_order: 500
     year: 2025
     topic: computer vision and machine learning
 
 
+  - image: "img/projects/p1.jpg"
+    title: "DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation"
+    title_link: "https://openreview.net/forum?id=TMt0dE668k&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)"
+    authors: "Zishu Qin*, Junhao Xu*, and __Weifeng Ge✉__"
+    links:
+      - name: International Conference on Computer Vision (ICCV) 2025
+        url: https://iccv.thecvf.com/
+      - name: Paper
+        url: https://openreview.net/pdf?id=TMt0dE668k
+
+    journal: "Poster Presentation"
+    selected_order: 501
+    year: 2025
+    topic: computer vision and machine learning
+
+  - image: "img/projects/p1.jpg"
+    title: "GTAD: Global Temporal Aggregation Denoising Learning for 3D Semantic Occupancy Prediction"
+    title_link: ""
+    authors: "Tianhao Li, Yang Li, Mengtian Li, Yisheng Deng, and __Weifeng Ge✉__"
+    links:
+      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
+        url: https://www.iros25.org/
+      - name: Paper
+        url: 
+
+    journal: "Poster Presentation"
+    selected_order: 502
+    year: 2025
+    topic: embodied artificial intelligence
 
 
   - image: "img/projects/p1.jpg"
-    title: "Reading Relevant Feature from Global Representation Memory for Visual Object Tracking"
+    title: "GTAD: Global Temporal Aggregation Denoising Learning for 3D Semantic Occupancy Prediction"
+    title_link: ""
+    authors: "Tianhao Li, Yang Li, Mengtian Li, Yisheng Deng, and __Weifeng Ge✉__"
+    links:
+      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
+        url: https://www.iros25.org/
+      - name: Paper
+        url: 
+
+    journal: "Poster Presentation"
+    selected_order: 502
+    year: 2025
+    topic: embodied artificial intelligence
+
+
+    
+
+
+
+  - image: "img/projects/p1.jpg"
+    title: "DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation"
     title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
-    authors: "Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, wei Zhang, __Weifeng Ge*__, and Wenqiang Zhang*"
+    authors: "Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, __Weifeng Ge*__, and Wenqiang Zhang*"
     links:
       - name: NeurIPS 2023
         url: https://nips.cc/virtual/2023/papers.html?filter=titles
