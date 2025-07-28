@@ -148,7 +148,7 @@ pubs:
 
     journal: "Regular Paper"
     selected_order: 508
-    year: 2025
+    year: 2024
     topic: multimodal learning and reasoning
 
 
@@ -165,7 +165,7 @@ pubs:
 
     journal: "Poster Presentation"
     selected_order: 509
-    year: 2025
+    year: 2024
     topic: computer vision and machine learning
 
 
@@ -182,9 +182,8 @@ pubs:
 
     journal: "Poster Presentation"
     selected_order: 510
-    year: 2025
+    year: 2024
     topic: computer vision and machine learning
-
 
 
 
@@ -200,38 +199,57 @@ pubs:
 
     journal: "Poster Presentation"
     selected_order: 511
-    year: 2025
-    topic: computer vision and machine learning
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    year: 2024
+    topic: multimodal learning and reasoning
 
 
 
   - image: "img/projects/p1.jpg"
-    title: "DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation"
-    title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
-    authors: "Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, __Weifeng Ge*__, and Wenqiang Zhang*"
+    title: "Q&A Prompts: Discovering Rich Visual Clues through Mining Question-Answer Prompts for VQA requiring Diverse World Knowledge"
+    title_link: "https://arxiv.org/pdf/2401.10712"
+    authors: "Haibo Wang, and __Weifeng Ge✉__"
     links:
-      - name: NeurIPS 2023
+      - name: The 18th European Conference on Computer Vision (ECCV 2024)
+        url: https://eccv.ecva.net/Conferences/2024
+      - name: Paper
+        url: https://arxiv.org/pdf/2401.10712
+
+    journal: "Poster Presentation"
+    selected_order: 512
+    year: 2024
+    topic: multimodal learning and reasoning
+
+
+  - image: "img/projects/p1.jpg"
+    title: "Pixel-level Semantic Correspondence through Layout-aware Representation Learning and Multi-scale Matching Integration"
+    title_link: "https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf"
+    authors: "Yixuan Sun, Zhangyue Yin, Haibo Wang, Yan Wang, Xipeng Qiu, __Weifeng Ge✉__, Wenqiang Zhang✉"
+    links:
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)
+        url: https://cvpr.thecvf.com/Conferences/2024
+      - name: Paper
+        url: https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Pixel-level_Semantic_Correspondence_through_Layout-aware_Representation_Learning_and_Multi-scale_Matching_CVPR_2024_paper.pdf
+
+    journal: "Poster Presentation"
+    selected_order: 513
+    year: 2024
+    topic: multimodal learning and reasoning
+
+
+  - image: "img/projects/p1.jpg"
+    title: "Reading Relevant Feature from Global Representation Memory for Visual Object Tracking"
+    title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
+    authors: "Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, __Weifeng Ge✉__, and Wenqiang Zhang*"
+    links:
+      - name: Advances in Neural Information Processing Systems (NeurIPS 2023) 
         url: https://nips.cc/virtual/2023/papers.html?filter=titles
       - name: Paper
         url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf
 
     journal: "Poster Presentation"
-    selected_order: 1
+    selected_order: 514
     year: 2023
-    topic:
+    topic: computer vision and machine learning
 
 
   - image: "img/projects/p2.jpg"
@@ -239,30 +257,16 @@ pubs:
     title_link: "https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12"
     authors: "Ruize Xu, Xiaowen Qiu, Boan He, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: PRCV 2023
+      - name: Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2023)
         url: https://www.prcv2023.cn/2023prcv
       - name: Paper
         url: https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12
 
     journal: "Poster Presentation"
-    selected_order: 2
+    selected_order: 515
     year: 2023
-    topic:
+    topic: computer vision and machine learning
 
-  - image: "img/projects/p2.jpg"
-    title: "2Multi-domain Information Fusion for Key-Points Guided GAN Inversion"
-    title_link: "https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12"
-    authors: "Ruize Xu, Xiaowen Qiu, Boan He, __Weifeng Ge ✉__, and Wenqiang Zhang✉"
-    links:
-      - name: PRCV 2023
-        url: https://www.prcv2023.cn/2023prcv
-      - name: Paper
-        url: https://link.springer.com/chapter/10.1007/978-981-99-8552-4_12
-
-    journal: "Poster Presentation"
-    selected_order: 3
-    year: 2023
-    topic:
 
   - image: "img/projects/p3.jpg"
     title: "Characterizing the impacts of instances on robustness"
@@ -275,14 +279,14 @@ pubs:
         url: https://aclanthology.org/2023.findings-acl.146.pdf
 
     journal: "Poster Presentation"
-    selected_order: 5
+    selected_order: 516
     year: 2023
     topic:
 
 
   - image: "img/projects/p4.jpg"
-    title: "Rankdnn: Learning to rank for few-shot learning"
-    title_link: "https://aclanthology.org/2023.findings-acl.146.pdf"
+    title: "Rankdnn: Learning to Rank for Few-shot Learning"
+    title_link: "https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922"
     authors: "Qianyu Guo, Haotong Gong, Xujun Wei, Yanwei Fu, Yizhou Yu, Wenqiang Zhang, __Weifeng Ge ✉__"
     links:
       - name: AAAI 2023
@@ -291,7 +295,7 @@ pubs:
         url: https://ojs.aaai.org/index.php/AAAI/article/download/25150/24922
 
     journal: "Poster Presentation"
-    selected_order: 10
+    selected_order: 517
     year: 2023
     topic: Few-shot Learning
 
@@ -306,7 +310,7 @@ pubs:
         url: https://arxiv.org/pdf/2306.04657.pdf
 
     journal: "Poster Presentation"
-    selected_order: 15
+    selected_order: 518
     year: 2023
     topic:
 
@@ -321,7 +325,7 @@ pubs:
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Hierarchical_Visual_Categories_Modeling_A_Joint_Representation_Learning_and_Density_ICCV_2023_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 20
+    selected_order: 519
     year: 2023
     topic:
 
@@ -336,7 +340,7 @@ pubs:
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Weakly_Supervised_Learning_of_Semantic_Correspondence_through_Cascaded_Online_Correspondence_ICCV_2023_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 25
+    selected_order: 520
     year: 2023
     topic:
 
@@ -351,7 +355,7 @@ pubs:
         url: https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_MISC210K_A_Large-Scale_Dataset_for_Multi-Instance_Semantic_Correspondence_CVPR_2023_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 30
+    selected_order: 521
     year: 2023
     topic: Visual Recognition
 
@@ -367,8 +371,40 @@ pubs:
         url: https://openaccess.thecvf.com/content/CVPR2023/papers/Sun_Correspondence_Transformers_With_Asymmetric_Feature_Learning_and_Matching_Flow_Super-Resolution_CVPR_2023_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 35
+    selected_order: 522
     year: 2023
+    topic:
+
+
+  - image: "img/projects/p9.jpg"
+    title: "A Systematic Review on Affective Computing: Emotion Models, Databases, and Recent Advances"
+    title_link: "https://arxiv.org/pdf/2203.06935"
+    authors: "Yan Wang, Wei Song, Wei Tao, Antonio Liotta, Dawei Yang, Xinlei Li, Shuyong Gao, Yixuan Sun, Weifeng Ge, Wei Zhang, Wenqiang Zhang"
+    links:
+      - name: Information Fusion 2022
+        url: https://www.sciencedirect.com/journal/information-fusion
+      - name: Paper
+        url: https://www.sciencedirect.com/science/article/pii/S1566253522000367
+
+    journal: "Survey Paper"
+    selected_order: 523
+    year: 2022
+    topic:
+
+
+  - image: "img/projects/p9.jpg"
+    title: "Towards Scalable and Fast Distributionally Robust Optimization for Data-Driven Deep Learning"
+    title_link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10027603"
+    authors: "Xuli Shen, Xiaomei Wang, Qing Xu, __Weifeng Ge✉__, and __Xiangyang Xue✉__"
+    links:
+      - name: IEEE International Conference on Data Mining (ICDM 2022)
+        url: https://www.computer.org/csdl/proceedings/icdm/2022/1KpChQa9kQ0
+      - name: Paper
+        url: https://ieeexplore.ieee.org/abstract/document/10027603
+
+    journal: "Poster Presentation"
+    selected_order: 524
+    year: 2022
     topic:
 
 
@@ -386,7 +422,7 @@ pubs:
         url: https://github.com/StomachCold/HCTransformers
 
     journal: "Poster Presentation"
-    selected_order: 40
+    selected_order: 525
     year: 2022
     topic: Few-shot Learning
 
@@ -405,7 +441,7 @@ pubs:
         url: https://wangyanckxx.github.io/Proj_CVPR2022_FERV39k.html
 
     journal: "Poster Presentation"
-    selected_order: 45
+    selected_order: 526
     year: 2022
     topic: Visual Recognition
 
@@ -422,7 +458,7 @@ pubs:
         url: https://dl.acm.org/doi/abs/10.1145/3503161.3547865
 
     journal: "Poster Presentation"
-    selected_order: 50
+    selected_order: 527
     year: 2022
     topic: Visual Recognition
 
@@ -441,7 +477,7 @@ pubs:
         url: https://github.com/GangmingZhao/GraphFPN-Graph-Feature-Pyramid-Network-for-Object-Detection
 
     journal: "Poster Presentation"
-    selected_order: 55
+    selected_order: 528
     year: 2021
     topic: Visual Recognition
 
@@ -460,7 +496,7 @@ pubs:
         url: https://github.com/wintersun661/MMNet
 
     journal: "Poster Presentation"
-    selected_order: 60
+    selected_order: 529
     year: 2021
     topic: Visual Recognition
 
@@ -475,7 +511,7 @@ pubs:
         url: http://cvpr2019.thecvf.com/
 
     journal: "Poster Presentation"
-    selected_order: 65
+    selected_order: 530
     year: 2019
     topic: Visual Recognition
 
@@ -492,7 +528,7 @@ pubs:
         url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 70
+    selected_order: 531
     year: 2019
     topic: Visual Recognition
 
@@ -515,7 +551,7 @@ pubs:
         url: https://github.com/ZYYSny/Deterministic-and-Stochastic-Synthesis-Network
 
     journal: Oral Presentation
-    selected_order: 75
+    selected_order: 532
     year: 2018
     topic: Low Level Imaging
 
@@ -534,7 +570,7 @@ pubs:
         url: http://openaccess.thecvf.com/content_ECCV_2018/papers/Ge_Deep_Metric_Learning_ECCV_2018_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 80
+    selected_order: 533
     year: 2018
     topic: Visual Recognition
 
@@ -550,7 +586,7 @@ pubs:
         url: http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf
 
     journal: "Poster Presentation"
-    selected_order: 85
+    selected_order: 534
     year: 2018
     topic: Visual Recognition
 
@@ -567,7 +603,7 @@ pubs:
         url: https://github.com/ZYYSny/Selective-Joint-Fine-tuning
 
     journal: "Spotlight Presentation"
-    selected_order: 90
+    selected_order: 535
     year: 2017
     topic: Visual Recognition
 
@@ -583,15 +619,9 @@ pubs:
         url: https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0031320316000522
 
     journal:
-    selected_order: 95
+    selected_order: 536
     year: 2016
     topic: Video Surveillance
-
-
-
-
-
-
 
 
   - image: "img/projects/bs_icpr2014.jpg"
@@ -605,7 +635,7 @@ pubs:
         url: https://ieeexplore.ieee.org/document/6977118
 
     journal: "Poster Presentation"
-    selected_order: 100
+    selected_order: 537
     year: 2014
     topic: Video Surveillance
 
