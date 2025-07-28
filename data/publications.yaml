@@ -16,6 +16,7 @@ pubs:
     topic: computer vision and machine learning
 
 
+
   - image: "img/projects/p1.jpg"
     title: "DeFSS: Image-to-Mask Denoising Learning for Few-shot Segmentation"
     title_link: "https://openreview.net/forum?id=TMt0dE668k&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)"
@@ -30,6 +31,7 @@ pubs:
     selected_order: 501
     year: 2025
     topic: computer vision and machine learning
+
 
 
   - image: "img/projects/p1.jpg"
@@ -48,6 +50,41 @@ pubs:
     topic: embodied artificial intelligence
 
 
+
+  - image: "img/projects/p1.jpg"
+    title: "Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments"
+    title_link: ""
+    authors: "Haibo Wang, Chenghang Lai, and __Weifeng Ge✉__"
+    links:
+      - name: IEEE Transactions on Multimedia
+        url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
+      - name: Paper
+        url: 
+
+    journal: "Regular Paper"
+    selected_order: 504
+    year: 2025
+    topic: multimodal learning and reasoning
+
+
+
+  - image: "img/projects/p1.jpg"
+    title: "CocoER: Aligning Multi-Level Feature by Competition and Coordination for Emotion Recognition"
+    title_link: "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_CocoER_Aligning_Multi-Level_Feature_by__Competition_and_Coordination_for_CVPR_2025_paper.pdf"
+    authors: "Xuli Shen, Hua Cai, Weilin Shen, Qing Xu, Dingding Yu, __Weifeng Ge✉__, and Xiangyang Xue"
+    links:
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025
+        url: https://cvpr.thecvf.com/
+      - name: Paper
+        url: https://cvpr.thecvf.com/virtual/2025/poster/33711
+
+    journal: "Poster Presentation"
+    selected_order: 505
+    year: 2025
+    topic: computer vision and machine learning
+
+
+
   - image: "img/projects/p1.jpg"
     title: "Enhancing Environmental Robustness in Few-shot Learning via Conditional Representation Learning"
     title_link: "https://arxiv.org/pdf/2502.01183"
@@ -64,36 +101,11 @@ pubs:
     topic: computer vision and machine learning
 
 
-  - image: "img/projects/p1.jpg"
-    title: "Adapting Multimodal Large Language Models for Video Question Answering by Capturing Question-critical and Coherent Moments"
-    title_link: ""
-    authors: "Haibo Wang, Chenghang Lai, and __Weifeng Ge✉__"
-    links:
-      - name: IEEE Transactions on Multimedia
-        url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
-      - name: Paper
-        url: https://arxiv.org/pdf/2502.01183
-
-    journal: "Regular Paper"
-    selected_order: 503
-    year: 2025
-    topic: computer vision and machine learning
 
 
-  - image: "img/projects/p1.jpg"
-    title: "Enhancing Environmental Robustness in Few-shot Learning via Conditional Representation Learning"
-    title_link: ""
-    authors: "Qianyu Guo, Jingrong Wu, Tianxing Wu, Haofen Wang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
-    links:
-      - name: IEEE Transactions on Image Processing
-        url: https://ieeexplore.ieee.org/document/11018198
-      - name: Paper
-        url: https://arxiv.org/pdf/2502.01183
 
-    journal: "Regular Paper"
-    selected_order: 503
-    year: 2025
-    topic: computer vision and machine learning
+
+
 
 
 
