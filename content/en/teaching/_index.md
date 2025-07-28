@@ -1,6 +1,6 @@
 ---
 #date: 2024-09-21
-title: Talks 
+title: Teaching
 ---
 
 
