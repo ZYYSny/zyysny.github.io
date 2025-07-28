@@ -38,7 +38,7 @@ title: Members
 - Xianbing Liang (2021~2024, MEng, NetEase)
 - Yubo Wang (2021~2024, MEng, Sensetime)
 - Hanghai Hu (2021~2024, MEng, Tencent)
-- Dongyang Zhao (2020~2023, MPhil, Tecent, National Scholarship 国家奖学金, Outstanding Master Thesis Award of the Shanghai Society of Information，上海市信息学会优秀硕士论文奖)
+- Dongyang Zhao (2020~2023, MPhil, Tencent, National Scholarship 国家奖学金, Outstanding Master Thesis Award of the Shanghai Society of Information，上海市信息学会优秀硕士论文奖)
 - Yangji He (2020~2023, MPhil, ByteDance)
 - Boan He (2020~2023, MEng, DJI)
 - Shilong Dong (2022~2024, UnGrad, NYU Courant)
