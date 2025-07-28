@@ -31,21 +31,6 @@ pubs:
     year: 2025
     topic: computer vision and machine learning
 
-  - image: "img/projects/p1.jpg"
-    title: "GTAD: Global Temporal Aggregation Denoising Learning for 3D Semantic Occupancy Prediction"
-    title_link: ""
-    authors: "Tianhao Li, Yang Li, Mengtian Li, Yisheng Deng, and __Weifeng Ge✉__"
-    links:
-      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2025
-        url: https://www.iros25.org/
-      - name: Paper
-        url: 
-
-    journal: "Poster Presentation"
-    selected_order: 502
-    year: 2025
-    topic: embodied artificial intelligence
-
 
   - image: "img/projects/p1.jpg"
     title: "GTAD: Global Temporal Aggregation Denoising Learning for 3D Semantic Occupancy Prediction"
@@ -61,6 +46,22 @@ pubs:
     selected_order: 502
     year: 2025
     topic: embodied artificial intelligence
+
+
+  - image: "img/projects/p1.jpg"
+    title: "Enhancing Environmental Robustness in Few-shot Learning via Conditional Representation Learning"
+    title_link: ""
+    authors: "Qianyu Guo, Jingrong Wu, Tianxing Wu, Haofen Wang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
+    links:
+      - name: IEEE Transactions on Image Processing
+        url: https://ieeexplore.ieee.org/document/11018198
+      - name: Paper
+        url: https://arxiv.org/pdf/2502.01183
+
+    journal: "Regular Paper"
+    selected_order: 503
+    year: 2025
+    topic: computer vision and machine learning
 
 
     
