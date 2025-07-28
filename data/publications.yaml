@@ -136,6 +136,20 @@ pubs:
 
 
 
+  - image: "img/projects/p1.jpg"
+    title: "Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos"
+    title_link: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10638077"
+    authors: "Chenghang Lai, Haibo Wang, __Weifeng Ge✉__, and Xiangyang Xue"
+    links:
+      - name: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT 2025)
+        url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
+      - name: Paper
+        url: https://ieeexplore.ieee.org/document/10638077/
+
+    journal: "Regular Paper"
+    selected_order: 508
+    year: 2025
+    topic: multimodal learning and reasoning
 
 
 
