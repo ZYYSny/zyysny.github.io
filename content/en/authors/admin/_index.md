@@ -3,9 +3,9 @@
 
 organizations:
 - name: School of Computer Science, Fudan University
-#  url: https://www.gwu.edu/
+# https://www.fudan.edu.cn/
   
-role: Pre-tenured Associate Professor
+role: Associate Professor
 
 email_text: "wfge [at] fudan (dot) edu (dot) cn"
 
@@ -24,19 +24,19 @@ research_topics_title: Research Topics
 
 research_topics_links:
 
-  - text: Low Level Imaging
+  - text: Computer Vision and Machine Learning
     url: publications?topic=low_level_imaging
     
-  - text: Visual Recognition
+  - text: Multimodal Learning and Reasoning
     url: publications?topic=visual_recognition
     
-  - text: Few-shot Learning
+  - text: Embodied Artificial Intelligence
     url: publications?topic=few_shot_learning
     
-  - text: Protein Structure Prediction
+  - text: Humanoid Robot Digital Brain
     url: "#psp"
     
-  - text: Robots with Self-awareness
+  - text: AI Fundamentals and Applications
     url: "#rws"
 
 
@@ -44,10 +44,10 @@ research_topics_links:
 
 ---
 
-I am a pre-tenured associate professor in the School of Computer Science at Fudan University and the director of <span style="color: #0cc977; font-weight: bold;">Nebula AI Group (NAIG)</span>. Before I joined Fudan, I got a PhD degree in computer science from the University of Hong Kong, advised by [Professor Yizhou Yu](https://i.cs.hku.hk/~yzyu/). I received a MS degree in electronic engineering from Tsinghua University at 2015 and a BS degree in optical information science and technology from Huazhong University of Science and Technology at 2012.
+I am a tenured associate professor in the College of Computer Science and Artificial Intelligence at Fudan University now. Before that, I was a pre-tenured associate professor in the School of Computer Science at Fudan University and the director of <span style="color: #0cc977; font-weight: bold;">Nebula AI Group (NAIG)</span>. Before I joined Fudan, I got a PhD degree in computer science from the University of Hong Kong, advised by [Professor Yizhou Yu](https://i.cs.hku.hk/~yzyu/). I received an MS degree in Electronic Engineering from Tsinghua University in 2015 and a BS degree in Optical Information Science and Technology from Huazhong University of Science and Technology in 2012.
 
-<span style="color: #0cc977; font-weight: bold;">NAIG</span> focuses on developing edge-cutting theories and technologies in AI. Our team works on three sub-research areas, including visual recognition and interpretable deep learning, protein structure prediction, and service robots with self-awareness.
+<span style="color: #0cc977; font-weight: bold;">NAIG</span> focuses on developing edge-cutting theories and technologies in AI. Our team focuses on three sub-research areas: computer vision and machine learning, embodied intelligence for humanoid robots, and AI fundamentals and applications.
 
-- <span style="color: #E40B07; font-weight: bold;">Visual Recognition and Intepretable Deep Learning:</span> We study metric learning, weakly supervised learning, few-shot learning, meta learning and their applications with computer vision. Our goal is building learning systems capable of understanding our visual world.
-- <span style="color: #E40B07; font-weight: bold;">Protein Structure Prediction and Drug Discovery:</span> We study deep learning methods to infer the 3-D structures of proteins from their amino acid sequences. We aim to predict the binding properties of drug molecules and proteins to identify potential new medicines.
-- <span style="color: #E40B07; font-weight: bold;">Robots with Self-awareness and Cognitive Intelligence:</span> Enabling self-awareness in autonomous intelligent systems is essential for artificial general intelligence (AGI). Our team focuses on developing cognitive theories and technologies for self-evaluation and meta reasoning in humanoid robots.
+- <span style="color: #E40B07; font-weight: bold;">Computer Vision and Machine Learning:</span> We study metric learning, weakly supervised learning, few-shot learning, meta learning, and their applications with computer vision. Our goal is building learning systems capable of understanding our visual world.
+- <span style="color: #E40B07; font-weight: bold;">Embodied Intelligence for Humanoid Robots:</span> We aim to build a digital brain for humanoid robots, enabling them to perceive, learn, reason, make decisions, plan, and control their bodies and external objects just like humans. Our goal is to integrate intelligent services into daily life through robots.
+- <span style="color: #E40B07; font-weight: bold;"> AI Fundamentals and Applications of AI:</span> NAIG also focuses on the evolution of foundational AI theories and algorithms, while striving to develop new cognitive computing architectures. Additionally, we aim to leverage AI to accelerate research in fundamental disciplines such as protein structure analysis and drug discovery.
