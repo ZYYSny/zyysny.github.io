@@ -30,7 +30,7 @@ design:
 - 2024-08: Three papers are accepted by ACMMM 2024.
 - 2024-07: One paper is accepted by ECCV 2024.
 - 2024-06: One paper is accepted by TCSVT.
-- 2024-04: I am elected as the secretary general of SCS multimedia technology committee（上海市计算机学会多媒体专委会秘书长）.
+- 2024-04: I am elected as the secretary general of SCS multimedia committee（上海市计算机学会多媒体专委会秘书长）.
 - 2024-03: One paper is accepted by CVPR 2023.
 - 2023-10: One paper is accepted by NeurIPS 2023.
 - 2023-07: Two papers are accepted by ICCV 2023.
@@ -40,7 +40,7 @@ design:
 - 2022-08: One paper is accepted by ACMMM 2022.
 - 2022-03: Two papers are accepted by CVPR 2022.
 - 2022-02: I am elected as an area chair of CCF Yong Computer Scientists & Engineers Forum (YOCSEF, Shanghai).
-- 2021-11: I am honored to be sponsored by Fudan University Excellent Young Scholar Support Program（复旦大学优秀青年培育计划）.
+- 2021-11: I am honored to be sponsored by Fudan Excellent Young Scholar Support Program（复旦大学优秀青年培育计划）.
 - 2021-10: I am honored to be sponsored by Shanghai Leading Talents Program（overseas）（上海市领军人才计划（海外））.
 - 2021-09: I am honored to be sponsored by Shanghai Pujiang Program（上海市浦江人才计划）.
 - 2021-07: Two papers are accepted by ICCV 2021.
