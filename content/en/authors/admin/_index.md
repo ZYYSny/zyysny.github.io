@@ -31,13 +31,13 @@ research_topics_links:
     url: publications?topic=multimodal_learning_and_reasoning
     
   - text: Embodied Artificial Intelligence
-    url: publications?topic=em
+    url: publications?topic=embodied_artificial_intelligence
     
   - text: Humanoid Robot Digital Brain
-    url: "#psp"
+    url: publications?topic=humanoid_robot_digital_brain
     
   - text: AI Fundamentals and Applications
-    url: "#rws"
+    url: publications?topic=ai_fundamentals_and_applications
 
 
   
