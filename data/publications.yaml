@@ -13,7 +13,7 @@ pubs:
     journal: "Highlight Presentation"
     selected_order: 500
     year: 2025
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -30,7 +30,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 501
     year: 2025
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -47,7 +47,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 502
     year: 2025
-    topic: embodied artificial intelligence
+    topic: embodied_artificial_intelligence
 
 
 
@@ -64,7 +64,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 503
     year: 2025
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -81,7 +81,7 @@ pubs:
     journal: "Regular Paper"
     selected_order: 504
     year: 2025
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
 
@@ -98,7 +98,7 @@ pubs:
     journal: "Regular Paper"
     selected_order: 505
     year: 2025
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
 
@@ -115,7 +115,8 @@ pubs:
     journal: "Regular Paper"
     selected_order: 506
     year: 2025
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
+
 
 
 
@@ -132,7 +133,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 507
     year: 2024
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -149,7 +150,7 @@ pubs:
     journal: "Regular Paper"
     selected_order: 508
     year: 2024
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
 
@@ -166,7 +167,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 509
     year: 2024
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -183,7 +184,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 510
     year: 2024
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -200,8 +201,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 511
     year: 2024
-    topic: multimodal learning and reasoning
-
+    topic: multimodal_learning_and_reasoning
 
 
   - image: "img/projects/p1.jpg"
@@ -217,7 +217,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 512
     year: 2024
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
   - image: "img/projects/p1.jpg"
@@ -233,7 +233,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 513
     year: 2024
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
   - image: "img/projects/p1.jpg"
@@ -249,7 +249,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 514
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p2.jpg"
@@ -265,7 +265,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 515
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p3.jpg"
@@ -281,7 +281,7 @@ pubs:
     journal: "Findings Presentation"
     selected_order: 516
     year: 2023
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
   - image: "img/projects/p4.jpg"
@@ -297,7 +297,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 517
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p5.jpg"
@@ -313,7 +313,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 518
     year: 2023
-    topic: multimodal learning and reasoning
+    topic: multimodal_learning_and_reasoning
 
 
   - image: "img/projects/p6.jpg"
@@ -329,7 +329,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 519
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
   - image: "img/projects/p7.jpg"
     title: "Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement"
@@ -344,7 +344,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 520
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
   - image: "img/projects/p8.jpg"
     title: "MISC210K: A Large-Scale Dataset for Multi-Instance Semantic Correspondence"
@@ -359,7 +359,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 521
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
     
 
   - image: "img/projects/p9.jpg"
@@ -375,7 +375,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 522
     year: 2023
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p9.jpg"
@@ -391,7 +391,7 @@ pubs:
     journal: "Survey Paper"
     selected_order: 523
     year: 2022
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p9.jpg"
@@ -407,7 +407,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 524
     year: 2022
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -426,7 +426,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 525
     year: 2022
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -445,7 +445,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 526
     year: 2022
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -462,7 +462,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 527
     year: 2022
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -481,7 +481,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 528
     year: 2021
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -500,7 +500,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 529
     year: 2021
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -515,7 +515,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 530
     year: 2019
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -532,7 +532,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 531
     year: 2019
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -553,7 +553,7 @@ pubs:
     journal: Oral Presentation
     selected_order: 532
     year: 2018
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -570,7 +570,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 533
     year: 2018
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/p19.jpg"
@@ -586,7 +586,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 534
     year: 2018
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -605,7 +605,7 @@ pubs:
     journal: "Spotlight Presentation"
     selected_order: 535
     year: 2017
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
@@ -620,7 +620,7 @@ pubs:
     journal:
     selected_order: 536
     year: 2016
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
   - image: "img/projects/bs_icpr2014.jpg"
@@ -636,7 +636,7 @@ pubs:
     journal: "Poster Presentation"
     selected_order: 537
     year: 2014
-    topic: computer vision and machine learning
+    topic: computer_vision_and_machine_learning
 
 
 
