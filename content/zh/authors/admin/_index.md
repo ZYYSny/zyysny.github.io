@@ -25,20 +25,19 @@ research_topics_title: 研究主题
 research_topics_links:
 
   - text: 计算机视觉与机器学习
-    url: publications?topic=low_level_imaging
+    url: publications?topic=computer_vision_and_machine_learning
     
   - text: 多模态学习与推理
-    url: publications?topic=visual_recognition
+    url: publications?topic=multimodal_learning_and_reasoning
     
   - text: 具身智能
-    url: publications?topic=few_shot_learning
+    url: publications?topic=embodied_artificial_intelligence
     
   - text: 人形机器人数字脑
-    url: "#psp"
+    url: publications?topic=humanoid_robot_digital_brain
     
   - text: 人工智能基础理论与应用
-    url: "#rws"
-  
+    url: publications?topic=ai_fundamentals_and_applications
 
 ---
 
