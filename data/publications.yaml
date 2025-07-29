@@ -5,7 +5,7 @@ pubs:
     title_link: "https://arxiv.org/abs/2507.10225"
     authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: International Conference on Computer Vision (ICCV 2025) 
+      - name: International conference on computer vision (ICCV 2025)
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2507.10225
@@ -22,7 +22,7 @@ pubs:
     title_link: "https://openreview.net/forum?id=TMt0dE668k&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)"
     authors: "Zishu Qin*, Junhao Xu*, and __Weifeng Ge✉__"
     links:
-      - name: International Conference on Computer Vision (ICCV 2025) 
+      - name: International conference on computer vision (ICCV 2025)
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://openreview.net/pdf?id=TMt0dE668k
@@ -38,10 +38,10 @@ pubs:
     title_link: ""
     authors: "Tianhao Li, Yang Li, Mengtian Li, Yisheng Deng, and __Weifeng Ge✉__"
     links:
-      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) 
+      - name: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025)
         url: https://www.iros25.org/
       - name: Paper
-        url: 
+        url:
 
     journal: "Poster Presentation"
     selected_order: 502
@@ -55,7 +55,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/CVPR2025/papers/Shen_CocoER_Aligning_Multi-Level_Feature_by__Competition_and_Coordination_for_CVPR_2025_paper.pdf"
     authors: "Xuli Shen, Hua Cai, Weilin Shen, Qing Xu, Dingding Yu, __Weifeng Ge✉__, and Xiangyang Xue✉"
     links:
-      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025) 
+      - name: The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2025)
         url: https://cvpr.thecvf.com/
       - name: Paper
         url: https://cvpr.thecvf.com/virtual/2025/poster/33711
@@ -76,7 +76,7 @@ pubs:
       - name: IEEE Transactions on Multimedia (TMM 2025)
         url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
       - name: Paper
-        url: 
+        url:
 
     journal: "Regular Paper"
     selected_order: 504
@@ -93,7 +93,7 @@ pubs:
       - name: IEEE Transactions on Multimedia (TMM 2025)
         url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6046
       - name: Paper
-        url: 
+        url:
 
     journal: "Regular Paper"
     selected_order: 505
@@ -126,7 +126,7 @@ pubs:
     title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
     authors: "Xinyu Zhou, Jinglun Li, Lingyi Hong, Kaixun Jiang, Pinxue Guo, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)  
+      - name: The Thirty-Eighth Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
         url: https://neurips.cc/Conferences/2024
       - name: Paper
         url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf
@@ -245,7 +245,7 @@ pubs:
     title_link: "https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf"
     authors: "Xinyu Zhou, Pinxue Guo, Lingyi Hong, Jinglun Li, Wei Zhang, __Weifeng Ge✉__, and Wenqiang Zhang*"
     links:
-      - name: Advances in Neural Information Processing Systems (NeurIPS 2023) 
+      - name: Advances in Neural Information Processing Systems (NeurIPS 2023)
         url: https://nips.cc/virtual/2023/papers.html?filter=titles
       - name: Paper
         url: https://proceedings.neurips.cc/paper_files/paper/2023/file/2349293cb1bf2ce36d5c566f660f957e-Paper-Conference.pdf
@@ -279,7 +279,7 @@ pubs:
     title_link: "https://aclanthology.org/2023.findings-acl.146.pdf"
     authors: "Rui Zheng, Zhiheng Xi, Qin Liu, Wenbin Lai, Tao Gui, Qi Zhang, XuanJing Huang, Jin Ma, Ying Shan, __Weifeng Ge ✉__"
     links:
-      - name: The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023) 
+      - name: The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
         url: https://2023.aclweb.org/
       - name: Paper
         url: https://aclanthology.org/2023.findings-acl.146.pdf
@@ -328,7 +328,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Hierarchical_Visual_Categories_Modeling_A_Joint_Representation_Learning_and_Density_ICCV_2023_paper.pdf"
     authors: "Jinglun Li, Xinyu Zhou, Pinxue Guo, Yixuan Sun, Yiwen Huang, __Weifeng Ge ✉__, Wenqiang Zhang✉"
     links:
-      - name: International Conference on Computer Vision (ICCV 2023) 
+      - name: International conference on computer vision (ICCV 2023)
         url: https://iccv2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Hierarchical_Visual_Categories_Modeling_A_Joint_Representation_Learning_and_Density_ICCV_2023_paper.pdf
@@ -344,7 +344,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Weakly_Supervised_Learning_of_Semantic_Correspondence_through_Cascaded_Online_Correspondence_ICCV_2023_paper.pdf"
     authors: "Yiwen Huang, Yixuan Sun, Chenghang Lai, Qing Xu, Xiaomei Wang, Xuli Shen, __Weifeng Ge ✉__"
     links:
-      - name: International Conference on Computer Vision (ICCV 2023)
+      - name: International conference on computer vision (ICCV 2023)
         url: https://iccv2023.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_Weakly_Supervised_Learning_of_Semantic_Correspondence_through_Cascaded_Online_Correspondence_ICCV_2023_paper.pdf
@@ -370,7 +370,7 @@ pubs:
     year: 2023
     topic: Computer Vision and Machine Learning
 
-    
+
 
   - image: "img/projects/p9.jpg"
     title: "Correspondence Transformers with Asymmetric Feature Learning and Matching Flow Super-Resolution"
@@ -487,7 +487,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_GraphFPN_Graph_Feature_Pyramid_Network_for_Object_Detection_ICCV_2021_paper.html"
     authors: "Gangming Zhao, __Weifeng Ge ✉__, and Yizhou Yu ✉"
     links:
-      - name: International Conference on Computer Vision (ICCV 2021) 
+      - name: International conference on computer vision (ICCV 2021)
         url: http://iccv2021.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_GraphFPN_Graph_Feature_Pyramid_Network_for_Object_Detection_ICCV_2021_paper.pdf
@@ -507,7 +507,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content/ICCV2021/html/Zhao_Multi-Scale_Matching_Networks_for_Semantic_Correspondence_ICCV_2021_paper.html"
     authors: "Dongyang Zhao, Ziyang Song, Zhenghao Ji, Gangming Zhao, __Weifeng Ge ✉__, and Yizhou Yu"
     links:
-      - name: International Conference on Computer Vision (ICCV 2021) 
+      - name: International conference on computer vision (ICCV 2021)
         url: http://iccv2021.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Multi-Scale_Matching_Networks_for_Semantic_Correspondence_ICCV_2021_paper.pdf
@@ -543,7 +543,7 @@ pubs:
     title_link: "https://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf"
     authors: "__Weifeng Ge__, Sheng Guo, Weilin Huang✉, and Matthew R. Scott"
     links:
-      - name: International Conference on Computer Vision (ICCV 2019) 
+      - name: International conference on computer vision (ICCV 2019)
         url: https://iccv2019.thecvf.com/
       - name: Paper
         url: https://openaccess.thecvf.com/content_ICCV_2019/papers/Ge_Label-PEnet_Sequential_Label_Propagation_and_Enhancement_Networks_for_Weakly_Supervised_ICCV_2019_paper.pdf
@@ -658,7 +658,7 @@ pubs:
       - name: Paper
         url: https://ieeexplore.ieee.org/document/6977118
 
-    journal: 
+    journal:
     selected_order: 537
     year: 2014
     topic: Computer Vision and Machine Learning

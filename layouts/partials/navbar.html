@@ -185,9 +185,28 @@
         </li>
         {{ end }}
 
+
+
+
+
         {{ $show_translations := site.Params.header.navbar.show_translations | default true }}
         {{ if .IsTranslated | and $show_translations }}
-        <li class="nav-item dropdown i18n-dropdown">
+
+        {{/* en, zh: find the other language other than the current one */}}
+        {{ $the_other_lang := index (where .Translations "Lang" "ne" .Lang) 0 }}
+        <li class="nav-item">
+          <a class="nav-link" href="{{ $the_other_lang.Permalink }}" style="font-size: 1rem;">
+            {{- if eq  .Lang  "en" -}}
+            中文版
+            {{- else -}}
+            {{ index site.Data.i18n.languages $the_other_lang.Lang }}
+            {{- end -}}
+          </a>
+        </li>
+
+
+        {{/* use another way to switch language
+        <li class="nav-item dropdown i18n-dropdown" style="display: none;">
           <a href="#" class="nav-link {{ if $show_current_language }}dropdown-toggle{{end}}" data-toggle="dropdown"
              aria-haspopup="true" aria-label="{{ i18n "languages" | default "Languages" }}">
             <i class="fas fa-globe mr-1" aria-hidden="true"></i>
@@ -206,6 +225,8 @@
             {{ end }}
           </div>
         </li>
+        */}}
+
         {{ end }}
 
       </ul>

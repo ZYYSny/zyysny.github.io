@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: News
+title: 新闻
 #subtitle:
 #ex_link: '/news'  
 #ex_link_title: 'All news»'  
