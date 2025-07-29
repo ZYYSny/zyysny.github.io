@@ -4,7 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Weifeng Ge # Website name
-baseURL: 'https://zyysny.github.io/wfge-homepage/' # Website URL
+#baseURL: 'https://zyysny.github.io/wfge-homepage/' # Website URL
+baseURL: 'https://www.weifengge.net/' # Website URL
 
 ############################
 ## LANGUAGE
