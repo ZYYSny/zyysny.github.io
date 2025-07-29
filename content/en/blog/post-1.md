@@ -2,6 +2,7 @@
 title: "Towards the Embodied Goal of Artificial Intelligence"
 date: 2025-07-29
 image: "img/blog/placeholder.webp"
+c_type: "blog"
 
 meta_title: ""
 description: ""

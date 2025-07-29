@@ -7,7 +7,7 @@ widget: recent_news
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 70
 
 active: true
 

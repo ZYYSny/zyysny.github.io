@@ -13,6 +13,8 @@
 
 {{ range $idx, $item := $publications }}
   {{ $modified_item := merge $item (dict "authors" ($item.authors | markdownify) )  }}
+
+
   {{ $dataList = $dataList | append  $modified_item }}
 {{ end }}
 

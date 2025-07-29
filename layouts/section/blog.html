@@ -1,18 +1,50 @@
 {{ define "main" }}
 
-{{ $paginator:= .Paginate .RegularPages }}
+{{/* $paginator:= .Paginate .RegularPages */}}
+{{ $book_paginator:= .Paginate ( where .RegularPages "Params.c_type" "eq" "book" )  }}
+{{ $blog_paginator:= .Paginate ( where .RegularPages "Params.c_type" "eq" "blog" )  }}
 
 
 
 <div class="universal-wrapper page-blog-list page-publications">
 
   <div class="pt-3 pb-3">
-    <h1>{{ .Title }}</h1>
+    <h1>{{ .Params.blog_title }}</h1>
   </div>
 
   <div class="blog-item-list pt-5">
 
-    {{ range $index, $item := $paginator.Pages }}
+    {{ range $index, $item := $blog_paginator.Pages }}
+    <div class="row blog-item publication-item">
+      <div class="col-12 col-md-3 img">
+        <img class="img_responsive" src="{{ $item.Params.image | relURL  }}" >
+      </div>
+      <div class="col-12 col-md-9 ">
+        <div class="title">
+          <a  href="{{ $item.Permalink }}">
+            {{ $item.Title }}
+          </a>
+        </div>
+        <div class="authors" > {{ .Summary | plainify }} </div>
+        <div class="read-more btn-links" >
+          <a href="{{ $item.Permalink }}"
+            class="btn btn-outline-primary btn-page-header btn-sm" >
+            {{ i18n "read_more" | default ("Read more") }}
+          </a>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+
+  <div class="pt-3 pb-3">
+    <h1>{{ .Params.book_title }}</h1>
+  </div>
+
+  <div class="blog-item-list pt-5">
+
+    {{ range $index, $item := $book_paginator.Pages }}
     <div class="row blog-item publication-item">
       <div class="col-12 col-md-3 img">
         <img class="img_responsive" src="{{ $item.Params.image | relURL  }}" >

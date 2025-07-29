@@ -7,7 +7,7 @@ widget: recent_news
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 60
 
 active: true
 
@@ -19,6 +19,7 @@ title: 学术服务
  
 
 ---  
+
 - I serve as a program committee member of AAAI 2026.
 - I serve as a technical committee member of CVPR 2019-2025, ICCV 2021 & 2023 & 2025, ECCV 2020 & 2022 & 2024, NeurIPS 2022-2025, ICML 2024-2025, AAAI 2021-2025, ICLR 2023-2025, WACV 2025, and ACMMMM 2023-2025.
   

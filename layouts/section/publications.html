@@ -66,7 +66,8 @@
               </div>
               <div class="authors" v-html="item.authors"> </div>
               <div class="venue-links">
-                <a   v-for="(link_item, index2) in item.links" :href="link_item.url">${link_item.name}</a>
+                {{/*<a   v-for="(link_item, index2) in item.links" :href="link_item.url">${link_item.name}</a>*/}}
+                <a   v-for="(link_item, index2) in item.links" :href="link_item.url" v-html="link_item.name" ></a>
               </div>
               <div>
                 <span class="highlight">${item.journal}</span>

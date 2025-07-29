@@ -24,7 +24,7 @@ main:
     url: 'teaching'
     weight: 60
 
-  - name: 博客
+  - name: 博客专著
     url: 'blog'
     weight: 70
 

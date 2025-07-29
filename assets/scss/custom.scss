@@ -92,6 +92,9 @@ body, h1, h2, h3, h4, h5, h6, .navbar-light {
     color: $primary-color;
     a:first-child {
       font-weight: bold;
+      span{
+        font-weight: normal !important;
+      }
     }
     a:after {
       content: ' / ';
