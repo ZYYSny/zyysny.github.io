@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://zyysny.github.io/wfge-homepage/sitemap.xml
+Sitemap: https://zyysny.github.io/sitemap.xml
