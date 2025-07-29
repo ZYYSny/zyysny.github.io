@@ -10,7 +10,7 @@ baseURL: 'https://www.weifengge.net/' # Website URL
 ############################
 ## LANGUAGE
 ############################
-
+ 
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
