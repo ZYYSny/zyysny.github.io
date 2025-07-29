@@ -634,7 +634,7 @@ pubs:
 
 
   - image: "img/projects/bs_pr2016.jpg"
-    title: "Dynamic background estimation and complementary learning for pixel-wise foreground/background segmentation"
+    title: "Dynamic Background Estimation and Complementary Learning for Pixel-wise Foreground/background Segmentation"
     title_link: "https://www-sciencedirect-com.eproxy.lib.hku.hk/science/article/pii/S0031320316000522"
     authors: "__Weifeng Ge__, Zhenhua Guo, Yuhan Dong, and Youbin Chen"
     links:
