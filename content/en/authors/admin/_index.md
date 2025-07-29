@@ -25,13 +25,13 @@ research_topics_title: Research Topics
 research_topics_links:
 
   - text: Computer Vision and Machine Learning
-    url: publications?topic=low_level_imaging
+    url: publications?topic=computer_vision_and_machine_learning
     
   - text: Multimodal Learning and Reasoning
-    url: publications?topic=visual_recognition
+    url: publications?topic=multimodal_learning_and_reasoning
     
   - text: Embodied Artificial Intelligence
-    url: publications?topic=few_shot_learning
+    url: publications?topic=em
     
   - text: Humanoid Robot Digital Brain
     url: "#psp"
