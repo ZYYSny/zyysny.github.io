@@ -658,7 +658,7 @@ pubs:
       - name: Paper
         url: https://ieeexplore.ieee.org/document/6977118
 
-    journal: "Poster Presentation"
+    journal: 
     selected_order: 537
     year: 2014
     topic: Computer Vision and Machine Learning
