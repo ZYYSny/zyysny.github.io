@@ -15,14 +15,14 @@ active: true
 design:
   columns: '1'
 
-title: Service
+title: Academic Service
  
 
 ---
 - I serve as a program committee member of AAAI 2026.
 - I serve as a technical committee member of CVPR 2019-2025, ICCV 2021 & 2023 & 2025, ECCV 2020 & 2022 & 2024, NeurIPS 2022-2025, ICML 2024-2025, AAAI 2021-2025, ICLR 2023-2025, WACV 2025, and ACMMMM 2023-2025.
   
-Reviewer for:
+  Reviewer for:
 - IEEE Transactions on Image Processing (T-IP)
 - IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
 - IEEE Transactions on Multimedia (T-MM)
