@@ -195,7 +195,7 @@
         {{/* en, zh: find the other language other than the current one */}}
         {{ $the_other_lang := index (where .Translations "Lang" "ne" .Lang) 0 }}
         <li class="nav-item">
-          <a class="nav-link" href="{{ $the_other_lang.Permalink }}" style="font-size: 1rem;">
+          <a class="nav-link" href="{{ $the_other_lang.RelPermalink }}" style="font-size: 1rem;">
             {{- if eq  .Lang  "en" -}}
             中文版
             {{- else -}}
