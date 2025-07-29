@@ -21,9 +21,12 @@ design:
 title: Honors & Awards
 ---
 
-- 2024  (复旦大学计算机科学技术学院院长奖（AI大课）)
-- 2024 （复旦大学教师教学创新大赛二等奖）
-- IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
-- IEEE Transactions on Multimedia (T-MM)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- 2024 Dean's Award of the School of Computer Science, Fudan University (AI Classes) (复旦大学计算机科学技术学院院长奖（AI大课）)
+- 2024 Second Prize in the Fudan University Teaching Innovation Competition（复旦大学教师教学创新大赛二等奖）
+- 2021 Fudan Excellent Young Scholar Support Program（复旦大学优秀青年培育计划）
+- 2021 Shanghai Leading Talents Program（overseas）（上海市领军人才计划（海外））
+- 2021 Shanghai Pujiang Program（上海市浦江人才计划）
+- 2021 Runner-up of the 12th Computer Go UEC Cup（第12届UEC杯世界计算机围棋大会亚军）
+- 2021 Li Ka Shing Prize Nomination from the University of Hong Kong （香港大学李嘉诚奖提名）
+- 2020 Nomination for the Outstanding Graduate Student Award from the University of Hong Kong（香港大学杰出研究生奖提名）
 
