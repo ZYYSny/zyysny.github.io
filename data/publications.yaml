@@ -2,7 +2,7 @@ pubs:
 
   - image: "img/projects/p1.jpg"
     title: "Synthesizing Near-Boundary OOD Samples for Out-of-Distribution Detection"
-    title_link: "https://arxiv.org/abs/2507.10225"
+    title_link: ""
     authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
       - name: International Conference on Computer Vision (ICCV 2025)
