@@ -26,7 +26,7 @@ title: Honors & Awards
 - 2021 Fudan Excellent Young Scholar Support Program（复旦大学优秀青年培育计划）
 - 2021 Shanghai Leading Talents Program（overseas）（上海市领军人才计划（海外））
 - 2021 Shanghai Pujiang Program（上海市浦江人才计划）
-- 2021 Runner-up of the 12th Computer Go UEC Cup（第12届UEC杯世界计算机围棋大会亚军）
-- 2021 Li Ka Shing Prize Nomination from the University of Hong Kong （香港大学李嘉诚奖提名）
-- 2020 Nomination for the Outstanding Graduate Student Award from the University of Hong Kong（香港大学杰出研究生奖提名）
+- 2021 Runner-up of the 12th Computer Go UEC Cup
+- 2021 Li Ka Shing Prize Nomination from the University of Hong Kong 
+- 2020 Nomination for the Outstanding Graduate Student Award from the University of Hong Kong
 
