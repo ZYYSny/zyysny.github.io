@@ -5,7 +5,7 @@ pubs:
     title_link: "https://arxiv.org/abs/2507.10225"
     authors: "Jinglun Li, Kaixun Jiang, Zhaoyu Chen, Bo Lin, Yao Tang, __Weifeng Ge✉__, and Wenqiang Zhang✉"
     links:
-      - name: <span>International conference on computer vision</span> (ICCV 2025)
+      - name: International Conference on Computer Vision (ICCV 2025)
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://arxiv.org/pdf/2507.10225
@@ -22,7 +22,7 @@ pubs:
     title_link: "https://openreview.net/forum?id=TMt0dE668k&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Dthecvf.com%2FICCV%2F2025%2FConference%2FAuthors%23your-submissions)"
     authors: "Zishu Qin*, Junhao Xu*, and __Weifeng Ge✉__"
     links:
-      - name: <span>International conference on computer vision</span> (ICCV 2025)
+      - name: International Conference on Computer Vision (ICCV 2025)
         url: https://iccv.thecvf.com/
       - name: Paper
         url: https://openreview.net/pdf?id=TMt0dE668k
