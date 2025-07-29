@@ -15,7 +15,7 @@ active: true
 design:
   columns: '1'
 
-title: Academic Service
+title: Academic Services
  
 
 ---
