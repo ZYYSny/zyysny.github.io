@@ -2,7 +2,7 @@
 
 
 organizations:
-- name: School of Computer Science, Fudan University
+- name: College of Computer Science and Artificial Intelligence, Fudan University
 # https://www.fudan.edu.cn/
   
 role: Associate Professor
