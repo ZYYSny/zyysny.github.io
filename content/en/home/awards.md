@@ -20,8 +20,8 @@ design:
 
 title: Honors & Awards
 ---
-- 2025 Fudan University Strategic Talent Development Program (Zhuoxue Outstanding Talent) (复旦大学战略人才培育计划（卓学优秀人才）)
-- 2024 Dean's Award of the School of Computer Science, Fudan University (AI Classes) (复旦大学计算机科学技术学院院长奖（AI大课）)
+- 2025 Fudan University Strategic Talent Development Program (Zhuoxue Outstanding Talent)（复旦大学战略人才培育计划（卓学优秀人才））
+- 2024 Dean's Award of the School of Computer Science, Fudan University (AI Classes)（复旦大学计算机科学技术学院院长奖（AI大课））
 - 2024 Second Prize in the Fudan University Teaching Innovation Competition（复旦大学教师教学创新大赛二等奖）
 - 2021 Fudan Excellent Young Scholar Support Program（复旦大学优秀青年培育计划）
 - 2021 Shanghai Leading Talents Program（overseas）（上海市领军人才计划（海外））
