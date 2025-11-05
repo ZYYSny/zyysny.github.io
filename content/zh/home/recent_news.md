@@ -21,6 +21,7 @@ design:
   columns: '1'
 ---
 
+- 2025-10: I am honored to be sponsored by Fudan University Strategic Talent Development Program (Zhuoxue Outstanding Talent)（复旦大学战略人才培育计划（卓学优秀人才））.
 - 2025-07: I am invited as a keynote speaker at the World Artificial Intelligence Conference (WAIC 2025).
 - 2025-07: I am promoted to a tenured associate professor.
 - 2025-07: Two papers are accepted by ICCV 2025, and one paper is accepted by IROS 2025.
