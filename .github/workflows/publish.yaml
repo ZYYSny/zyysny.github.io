@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+
+env:
+  HUGO_VERSION: '0.135.0'
+
 jobs:
   build-and-deploy:
     # 构建环境使用 ubuntu
