@@ -20,7 +20,7 @@ design:
 #  view: compact
   columns: '1'
 ---
-- 2026-01: I am elected as the vice chair of the Young Computer Scientists & Engineers Forum (Shanghai), China Computer Federation (CCF YOCSEF Shanghai) （中国计算机学会青年精英论坛上海副主席）.
+- 2026-01: I am elected as the vice chair of the Young Computer Scientists & Engineers Forum (Shanghai), China Computer Federation (CCF YOCSEF Shanghai) （中国计算机学会青年科技论坛上海副主席）.
 - 2025-10: I am honored to be sponsored by Fudan University Strategic Talent Development Program (Zhuoxue Outstanding Talent)（复旦大学战略人才培育计划（卓学优秀人才））.
 - 2025-07: I am invited as a keynote speaker at the World Artificial Intelligence Conference (WAIC 2025).
 - 2025-07: I am promoted to a tenured associate professor.
