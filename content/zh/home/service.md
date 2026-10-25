@@ -20,12 +20,13 @@ title: 学术服务
 
 ---  
 
-- I serve as a program committee member of AAAI 2026.
-- I serve as a technical committee member of CVPR 2019-2025, ICCV 2021 & 2023 & 2025, ECCV 2020 & 2022 & 2024, NeurIPS 2022-2025, ICML 2024-2025, AAAI 2021-2025, ICLR 2023-2025, WACV 2025, and ACMMMM 2023-2025.
+- I serve as an area chair of ICLR 2027, ICML 2027 and ICIG 2026.
+- I serve as a technical committee member of CVPR 2019-2026, ICCV 2021 & 2023 & 2025, ECCV 2020 & 2022 & 2024 & 2026, NeurIPS 2022-2026, ICML 2024-2026, AAAI 2021-2027, ICLR 2023-2026, WACV 2025, and ACMMMM 2023-2025.
   
-  审稿人:
+  Reviewer for:
 - npj (Nature Partner Journals) Artificial Intelligence (npj-AI)
 - IEEE Transactions on Image Processing (T-IP)
 - IEEE Transactions on Neural Networks and Learning Systems (T-NNLS)
 - IEEE Transactions on Multimedia (T-MM)
-- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT) 
+- Pattern Recognition (PR) 
