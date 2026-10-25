@@ -20,6 +20,7 @@ design:
 #  view: compact
   columns: '1'
 ---
+- 2026-10: I serve as an area chair for ICML 2027.
 - 2026-09: I serve as an area chair for ICLR 2027.
 - 2026-07: I serve as a meta-reviewer for ICIG 2026.
 - 2026-01: I was elected as the vice chair of the Young Computer Scientists & Engineers Forum (Shanghai), China Computer Federation (CCF YOCSEF Shanghai) （中国计算机学会青年科技论坛上海副主席）.
